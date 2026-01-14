@@ -8,7 +8,7 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
-import com.example.lazy_loading.view.CountryDetail
+import com.example.layzydeverda.view.CountryDetail
 import com.example.lazy_loading.view.CountryList
 import com.example.lazy_loading.viewModel.ApiViewModel
 
